@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-cocjz5.koi888win.sbs/sitemap.xml
